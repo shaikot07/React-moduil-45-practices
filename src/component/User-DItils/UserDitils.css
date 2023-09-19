@@ -1,0 +1,10 @@
+.ditils-card{
+      border: 2px solid orange;
+      padding: 5px;
+      border-radius: 20px;
+      margin-top: 20px;
+}
+
+.ditils-card span{
+      color: brown;
+}

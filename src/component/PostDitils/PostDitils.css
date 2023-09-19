@@ -1,0 +1,9 @@
+.post{
+      border: 3px solid indigo;
+      padding: 5px;
+      border-radius: 20px;
+      margin-top: 20px;
+      margin-bottom: 10px;
+      
+      text-align: center;
+}
