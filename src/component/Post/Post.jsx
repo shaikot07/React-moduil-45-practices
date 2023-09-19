@@ -6,7 +6,7 @@ const Post = ({post}) => {
       const navigate =useNavigate();
 
       const postStyle={
-            border:'2px solid yellow',
+            border:'3px solid green',
             padding:'5px',
             borderRadius:'20px'
       }

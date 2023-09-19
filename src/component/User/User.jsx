@@ -5,7 +5,7 @@ const User = ({user}) => {
       const {id,name,email,phone}=user;
 
       const userStyle={
-            border:'2px solid yellow',
+            border:'3px solid orange',
             padding:'5px',
             borderRadius:'20px'
       }
